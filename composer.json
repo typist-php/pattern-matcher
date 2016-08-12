@@ -1,0 +1,20 @@
+{
+    "name": "scribe/pattern-matcher",
+    "description": "Generic text pattern matcher component.",
+    "type": "library",
+    "keywords": ["scribe", "text pattern", "pattern matching", "regex", "wildcard"],
+    "license": "CC-BY-SA-4.0",
+    "homepage": "https://github.com/scribe-php/pattern-matcher",
+    "authors": [
+        {
+            "name": "Keven",
+            "email": "keven@adagiolabs.fr",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Scribe\\PatternMatcher\\": "src"
+        }
+    }
+}
