@@ -1,10 +1,10 @@
 {
-    "name": "scribe/pattern-matcher",
+    "name": "mark/pattern-matcher",
     "description": "Generic text pattern matcher component.",
     "type": "library",
-    "keywords": ["scribe", "text pattern", "pattern matching", "regex", "wildcard"],
+    "keywords": ["mark", "text pattern", "pattern matching", "regex", "wildcard"],
     "license": "CC-BY-SA-4.0",
-    "homepage": "https://github.com/scribe-php/pattern-matcher",
+    "homepage": "https://github.com/mark-php/pattern-matcher",
     "authors": [
         {
             "name": "Keven",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Scribe\\PatternMatcher\\": "src"
+            "Mark\\PatternMatcher\\": "src"
         }
     }
 }
