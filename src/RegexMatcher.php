@@ -4,7 +4,7 @@ namespace Mark\PatternMatcher;
 
 use Mark\PatternMatcher\Exception\NoMatch;
 
-final class RegexMatcher implements Matcher
+class RegexMatcher implements Matcher
 {
     /**
      *
