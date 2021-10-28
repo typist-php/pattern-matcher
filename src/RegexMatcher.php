@@ -1,8 +1,8 @@
 <?php
 
-namespace Mark\PatternMatcher;
+namespace Paper\PatternMatcher;
 
-use Mark\PatternMatcher\Exception\NoMatch;
+use Paper\PatternMatcher\Exception\NoMatch;
 
 class RegexMatcher implements Matcher
 {

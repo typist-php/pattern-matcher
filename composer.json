@@ -1,20 +1,20 @@
 {
-    "name": "mark/pattern-matcher",
+    "name": "paper/pattern-matcher",
     "description": "Generic text pattern matcher component.",
     "type": "library",
     "keywords": ["mark", "text pattern", "pattern matching", "regex", "wildcard"],
     "license": "CC-BY-SA-4.0",
-    "homepage": "https://github.com/mark-php/pattern-matcher",
+    "homepage": "https://github.com/paper-php/pattern-matcher",
     "authors": [
         {
             "name": "Keven",
-            "email": "keven@adagiolabs.fr",
+            "email": "hello@keven.fr",
             "role": "Developer"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Mark\\PatternMatcher\\": "src"
+            "Paper\\PatternMatcher\\": "src"
         }
     }
 }

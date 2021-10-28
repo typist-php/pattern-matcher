@@ -1,6 +1,6 @@
 <?php
 
-namespace Mark\PatternMatcher\Exception;
+namespace Paper\PatternMatcher\Exception;
 
 use InvalidArgumentException;
 

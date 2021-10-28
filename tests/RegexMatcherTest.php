@@ -1,10 +1,10 @@
 <?php
 
-namespace Mark\PatternMatcher\Tests\Pattern;
+namespace Paper\PatternMatcher\Tests\Pattern;
 
-use Mark\PatternMatcher\RegexMatcher;
-use Mark\PatternMatcher\Result;
-use Mark\PatternMatcher\Exception\NoMatch;
+use Paper\PatternMatcher\RegexMatcher;
+use Paper\PatternMatcher\Result;
+use Paper\PatternMatcher\Exception\NoMatch;
 
 final class RegexMatcherTest extends \PHPUnit_Framework_TestCase
 {

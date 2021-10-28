@@ -1,6 +1,6 @@
 <?php
 
-namespace Mark\PatternMatcher;
+namespace Paper\PatternMatcher;
 
 use Countable, ArrayAccess, DomainException;
 

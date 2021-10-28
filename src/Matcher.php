@@ -1,6 +1,6 @@
 <?php
 
-namespace Mark\PatternMatcher;
+namespace Paper\PatternMatcher;
 
 interface Matcher
 {
@@ -16,7 +16,7 @@ interface Matcher
      *
      * @param string $text
      *
-     * @throws \Mark\PatternMatcher\Exception\NoMatch
+     * @throws \Paper\PatternMatcher\Exception\NoMatch
      *
      * @return Result
      */
@@ -26,7 +26,7 @@ interface Matcher
      *
      * @param string $text
      *
-     * @throws \Mark\PatternMatcher\Exception\NoMatch
+     * @throws \Paper\PatternMatcher\Exception\NoMatch
      *
      * @return Results
      */

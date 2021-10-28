@@ -1,6 +1,6 @@
 <?php
 
-namespace Mark\PatternMatcher;
+namespace Paper\PatternMatcher;
 
 final class WildcardMatcher extends RegexMatcher
 {
